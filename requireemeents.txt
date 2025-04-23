@@ -1,0 +1,4 @@
+anyio==4.9.0
+python-telegram-bot==22.0
+telegram==0.0.1
+
