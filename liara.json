@@ -1,8 +1,8 @@
 {
-"app":"bod-telegram"
-"port":80
-"build":{
-"location":"iran"
-}
-"disks":[]
+  "app": "bot-telegram-reza-mft",
+  "port": 80,
+  "build": {
+    "location": "iran"
+  },
+  "disks": []
 }
